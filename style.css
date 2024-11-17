@@ -1,0 +1,73 @@
+body{
+    background-color: #06586C;
+}
+
+.tarjeta {
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.navbar{
+    background-color: #0f2d35;
+}
+
+.carousel{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.carousel-inner img{
+    width: 100%;
+    max-height: 300px;
+}
+
+.contenedor-tarjetas{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.cursos-xpand{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin: 30px 30px ;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+
+.react-xpand{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.react-xpand-img img{
+    width: 35rem;
+}
+
+.react-xpand-txt{
+    color: #e6e6e6;
+    margin-left: 20px;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+
+li{
+    margin-top: 12px;
+}
+
